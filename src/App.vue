@@ -38,8 +38,9 @@ export default{
     }
   }
 }
-
+import"milligram";
 </script>
+
 
 <style>
 
